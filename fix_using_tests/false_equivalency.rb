@@ -6,7 +6,7 @@ end
 
 def prompt_user
   puts "What would you like to do?"
-  num 1 = puts "Eat a hamburger."
+  num 1 puts "Eat a hamburger."
   num 2 = puts "Eat a ham."
 end
 
